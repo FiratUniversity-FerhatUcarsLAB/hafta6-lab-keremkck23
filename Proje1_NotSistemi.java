@@ -1,6 +1,7 @@
 Öğrenci No : 250541097
 Ad Soyad : Mehmet Kerem Küçük
 Tarih : 15.11.2025
+Proje Adı : Not Sistemi
  Görev 1 - Sınav Notları Girilen bir öğrencinin raporunu yazdıran program
 
 
@@ -96,6 +97,7 @@ public class NotSistemi {
     }
 
 }
+
 
 
 
